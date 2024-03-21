@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Desarrollo de Aplicaciones Moviles",
+      "description": "Ofrecemos soluciones personalizadas para el desarrollo de aplicaciones, móviles, asegurando una experiencia de usuario excepcional."
+    },
+    {
+      "id": 2,
+      "name": "Consultoria de Tecnologías de la informacion",
+      "description": "Proporcionamos asesoramiento experto en tecnologias de la informacion para optimizar la infraestructura y procesos de tu empresa."
+    },
+    {
+      "id": 3,
+      "name": "Diseño de Experiencia de Usuario (UX)",
+      "description": "Creamos interfaces instructivas y atractivas para garantizar que tus usuarios tengan la mejor experiencia posible con tus productos digitales."
+    },
+    {
+      "id": 4,
+      "name": "Desarrolo de Aplicaciones Web",
+      "description": "Desarrollamos aplicaciones web robustas y escalables, adaptadas a sus necesidades comerciales y tecnológicas."
+    }
+  ] 
